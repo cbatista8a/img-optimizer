@@ -1,0 +1,6 @@
+{
+    "require": {
+        "spatie/image-optimizer": "^1.6",
+        "symfony/finder": "^5.4"
+    }
+}
